@@ -1,9 +1,3 @@
-# Swisstronik Tesnet Techinal Task 3 (Mint a ERC-721 Token)
-
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
 EVM :
 
 ```bash
@@ -98,7 +92,4 @@ npm run mint
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+by : github :(https://github.com/dcntralist) twitter : @ikkyy_eth telegram : @rifkyabdillah //0xD459e49f6280a192651b1f2f8FF013F4089B5d3a
